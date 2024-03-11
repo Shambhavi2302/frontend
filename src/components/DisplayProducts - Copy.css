@@ -1,0 +1,9 @@
+.star {
+    font-size: 20px;
+    color: #ccc; /* Default color */
+    cursor: pointer;
+  }
+  
+  .star.active {
+    color: gold; /* Color when bookmarked */
+  }

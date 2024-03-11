@@ -1,0 +1,26 @@
+.custom-card {
+    border: 1px solid #ccc; /* Add a border */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a shadow */
+}
+
+.custom-card .card-body {
+    padding: 20px; /* Increase padding */
+}
+
+.custom-card .card-title {
+    font-size: 1.25rem; /* Increase font size */
+    margin-bottom: 10px; /* Add some space below the title */
+}
+
+.custom-card .card-text {
+    margin-bottom: 15px; /* Add some space below the text */
+}
+
+.custom-card form {
+    margin-top: 20px; /* Add some space above the form */
+}
+
+.custom-card button {
+    margin-top: 10px; /* Add some space above the button */
+}
